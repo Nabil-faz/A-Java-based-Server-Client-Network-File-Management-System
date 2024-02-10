@@ -22,7 +22,7 @@ This Java-based application is a comprehensive file management solution designed
 ***
 
 
-![serverinfo](image/serverinfo.png)
+![serverinfo](image/serverInfo.png)
 
 ![server](image/server.png)
 
